@@ -13,7 +13,7 @@ snapshot:
 changelog:
   sort: asc
 nfpms:
-  - maintainer: Pixel Häußler <pixel@chrissx.de>
+  - maintainer: Pixel Häußler <pixel+packages@chrissx.de>
     description: An IP echoer.
     homepage: https://github.com/chrissxMedia/erwin
     license: AGPLv3
